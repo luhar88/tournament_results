@@ -26,4 +26,4 @@ $ python tournament_test.py
 ```
 
 This will test all the functions in tournament.py
-If you get success at the end, that mean all the tests ran successfully :)
+If you get success at the end, that means all the tests ran successfully :)
